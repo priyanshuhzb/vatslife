@@ -21,7 +21,7 @@ title                    : "VATS LIFE"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Priyanshu Vats"
-description              : "Life is Work."
+description              : "Great Life is Great Work."
 url                      : vatslife.com
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
