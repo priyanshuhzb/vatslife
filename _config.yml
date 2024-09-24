@@ -319,7 +319,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: home
+      layout: list
       author_profile: true
       read_time: true
       comments: # true
